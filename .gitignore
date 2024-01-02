@@ -1,4 +1,3 @@
-
 LoanDefaultPrediction/Data/home-credit-default-risk/sample_submission.csv
 LoanDefaultPrediction/Data/home-credit-default-risk/previous_application.csv
 LoanDefaultPrediction/Data/home-credit-default-risk/POS_CASH_balance.csv
@@ -10,5 +9,5 @@ LoanDefaultPrediction/Data/home-credit-default-risk/application_train.csv
 LoanDefaultPrediction/Data/home-credit-default-risk/bureau.csv
 LoanDefaultPrediction/Data/home-credit-default-risk/bureau_balance.csv
 LoanDefaultPrediction/Data/.DS_Store
-LoanDefaultPrediction/.DS_Store
+
 APIminiProject/.env
